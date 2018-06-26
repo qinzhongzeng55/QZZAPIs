@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QZZAPIsKit_Example' do
+  pod 'QZZAPIsKit', :path => '../'
+
+  target 'QZZAPIsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
