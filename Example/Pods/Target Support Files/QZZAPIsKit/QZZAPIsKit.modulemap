@@ -1,0 +1,6 @@
+framework module QZZAPIsKit {
+  umbrella header "QZZAPIsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

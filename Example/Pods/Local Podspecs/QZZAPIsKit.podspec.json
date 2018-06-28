@@ -1,0 +1,33 @@
+{
+  "name": "QZZAPIsKit",
+  "version": "0.1.0",
+  "summary": "A short description of QZZAPIsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/qinzhongzeng55/QZZAPIsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "qinzhongzeng55": "qinzhongzeng55@163.com"
+  },
+  "source": {
+    "git": "https://github.com/qinzhongzeng55/QZZAPIsKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "QZZAPIsKit/Classes/**/*",
+  "dependencies": {
+    "QZZToolsKit": [
+
+    ],
+    "AFNetworking": [
+
+    ],
+    "MJRefresh": [
+
+    ]
+  }
+}
